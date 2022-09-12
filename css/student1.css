@@ -1,0 +1,19 @@
+body {
+    background-color: #ffff00;
+}
+h1 {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    background-color: #008000
+} 
+h2 {
+    background-color: #00ffff;
+}
+.cookies {
+    background-color: #ff00ff;
+}
+
+img {
+    display: block;
+}
